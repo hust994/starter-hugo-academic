@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Quqing Huang 黄瞿清
 
 # Full name (for SEO)
 first_name: Alice
