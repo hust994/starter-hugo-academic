@@ -24,7 +24,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Communication System
   - Communication circuit design
-  - Holographic MIMO
+  - Mobile Communication
 
 # Education to show in About widget
 education:
@@ -77,8 +77,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  I'm an undergraduate of Huazhong University of Science and Technology. My research interests include communicatin system, mobile communication and communication circuit design. 
+ 
+  During underguate studies, I won the first prize in National Undergraduate Electronic Design Contest in Hubei Province. Besides, I was designated as Meritorious Winner in American Undergraduate Mathematical Contest in Modeling.
+ 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
