@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Ansys HFSS/CST Studio Suite/ADS/Multisim/Pspice/LtSpice
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Simulation
+  - description: Altuim Designer/Cadence
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Design Tools
+  - description: Communication Theory/DSP/Analog&Digital Circuit
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Knowledge
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
