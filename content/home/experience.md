@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Team Leader
+    company: Electrical and electronic Science and Technology Innovation Center
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: org-sti
+    location: Hubei
+    date_start: '2021-09-01'
+    date_end: '2022-06-30'
     description: |2-
-        Responsibilities include:
+    accomplishment:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    *first prize, National Undergraduate Electronic Design Contest in Hubei Province,2021
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Team Member
+    company: Huazhong University of Science and Technology
     company_url: ''
-    company_logo: org-x
+    company_logo: org-HUST
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2022-12-30'
+    date_end: '2022-04-01'
+    description: Meritorious Winner, American Undergraduate Mathematical Contest in Modeling, 2022
 
 design:
   columns: '2'
