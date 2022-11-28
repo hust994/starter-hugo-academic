@@ -37,7 +37,7 @@ experience:
   - title: Team Member
     company: Huazhong University of Science and Technology
     company_url: ''
-    company_logo: org-HUST
+    company_logo: org-hust
     location: California
     date_start: '2022-12-30'
     date_end: '2022-04-01'
